@@ -28,11 +28,11 @@ void ft_putnbr (int a)
 		ft_putchar (a + 48);
 }
 
-int main ()
+/*int main ()
 
 {
 	ft_putchar ('\n');
 	ft_putnbr(800);
 	return (0);
 
-}
+}*\
